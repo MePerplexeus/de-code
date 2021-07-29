@@ -1,6 +1,7 @@
 use_text_title: false
 # title: de;code
-title: false
+name: de;code
+title: null
 use_logo: true
 logo: assets/images/de;code.png
 favicon: assets/images/de;code.gif
