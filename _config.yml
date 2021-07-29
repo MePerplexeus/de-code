@@ -1,6 +1,8 @@
+use_text_title: false
 #title: de;code
 use_logo: true
 logo: assets/images/de;code.png
+favicon: assets/images/de;code.gif
 author: Perplexeus
 email: me@perplexeus.com
 description: > # this means to ignore newlines until "baseurl:"
