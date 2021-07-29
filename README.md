@@ -1,4 +1,6 @@
-# de;Code
+<p align="center"><img src="https://github.com/MePerplexeus/decode/blob/master/assets/images/de;code.png?raw=true" alt="Logo"></p>
+
+---
 
 Welcome to **de;Code** repository where I'll (probably rarely) be GitBlogging whenever I can. This repository will be used during the different projects i'll be working on, to which links will also be provided. 
 
