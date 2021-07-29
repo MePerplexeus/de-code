@@ -2,7 +2,7 @@
 
 ---
 
-Welcome to **de;Code** repository where I'll (probably rarely) be GitBlogging whenever I can. This repository will be used during the different projects i'll be working on, to which links will also be provided. 
+Welcome to **DE;CODE** repository where I'll (probably rarely) be GitBlogging whenever I can. This repository will be used during the different projects i'll be working on, to which links will also be provided. 
 
 Oh! I haven't introduced myself...
 
