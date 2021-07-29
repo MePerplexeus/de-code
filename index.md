@@ -1,4 +1,5 @@
 # Home
-Welcome to de;Code
+Welcome to DE;CODE
 
-I'm glad you are here. I plan to talk about something relatede to programming i hope... (:
+I'm glad you are here. I plan to talk about something related to programming i hope... (:
+Stick around ;)
