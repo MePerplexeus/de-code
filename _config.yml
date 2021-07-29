@@ -1,4 +1,8 @@
-title: "/assets/image/de;code.png"
+#title: "/assets/image/de;code.png"
+#title: de;code
+use_logo: true
+# logo image to use. logo images are constrained at 50px in height.
+logo: assets/image/de;code.png
 author: Perplexeus
 email: me@perplexeus.com
 description: > # this means to ignore newlines until "baseurl:"
