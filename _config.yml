@@ -1,9 +1,10 @@
 use_text_title: false
 # title: de;code
-name: de;code
-title: null
-use_logo: true
-logo: assets/images/de;code.png
+# name: de;code
+#title: null
+title: assets/images/de;code.png
+# use_logo: true
+# logo: assets/images/de;code.png
 favicon: assets/images/de;code.gif
 author: Perplexeus
 email: me@perplexeus.com
